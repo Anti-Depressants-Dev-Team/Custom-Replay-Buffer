@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Yabosen\Documents\Projects\Replay Buffer Plugin\build\CMakeFiles\dbe7612b004dae9dabb613672bd952f7\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B2BE6DAD-077F-38BE-86B1-0929D235D798}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/build/CMakeFiles/plugin-support.dir
+C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/build/CMakeFiles/plugintemplate-for-obs.dir
+C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/build/CMakeFiles/INSTALL.dir
+C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/build/CMakeFiles/plugintemplate-for-obs_autogen_timestamp_deps.dir
+C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/build/CMakeFiles/plugintemplate-for-obs_autogen.dir
+C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/build/CMakeFiles/ZERO_CHECK.dir

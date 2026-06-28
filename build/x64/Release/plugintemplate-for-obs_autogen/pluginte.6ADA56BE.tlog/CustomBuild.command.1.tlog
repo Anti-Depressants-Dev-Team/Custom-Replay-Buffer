@@ -1,0 +1,40 @@
+^C:\USERS\YABOSEN\DOCUMENTS\PROJECTS\REPLAY BUFFER PLUGIN\BUILD\CMAKEFILES\59A6A9A4FA00E23B5A1279364A650AD5\TIMESTAMP_(CONFIG).RULE
+setlocal
+cd "C:\Users\Yabosen\Documents\Projects\Replay Buffer Plugin\build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E cmake_autogen "C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/build/CMakeFiles/plugintemplate-for-obs_autogen.dir/AutogenInfo.json" Release
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/build/plugintemplate-for-obs_autogen/timestamp_Release"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E cmake_transform_depfile "Visual Studio 18 2026" MSBuildAdditionalInputs "C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin" "C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin" "C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/build" "C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/build" "C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/build/plugintemplate-for-obs_autogen/deps_Release" "C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/build/CMakeFiles/d/2c5fa09b5c60d411b06d6eb4b69bd1f8f1ee2358276a9b1a66a024ac3045f077.AdditionalInputs"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\YABOSEN\DOCUMENTS\PROJECTS\REPLAY BUFFER PLUGIN\BUILD\CMAKEFILES\DBE7612B004DAE9DABB613672BD952F7\PLUGINTEMPLATE-FOR-OBS_AUTOGEN.RULE
+setlocal
+cd "C:\Users\Yabosen\Documents\Projects\Replay Buffer Plugin\build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\YABOSEN\DOCUMENTS\PROJECTS\REPLAY BUFFER PLUGIN\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin" "-BC:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/build" --check-stamp-file "C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

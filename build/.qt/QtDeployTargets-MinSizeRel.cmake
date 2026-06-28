@@ -1,0 +1,5 @@
+set(__QT_DEPLOY_TARGET_plugin-support_FILE C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/build/MinSizeRel/plugin-support.lib)
+set(__QT_DEPLOY_TARGET_plugin-support_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_plugintemplate-for-obs_FILE C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/build/MinSizeRel/plugintemplate-for-obs.dll)
+set(__QT_DEPLOY_TARGET_plugintemplate-for-obs_TYPE MODULE_LIBRARY)
+set(__QT_DEPLOY_TARGET_plugintemplate-for-obs_RUNTIME_DLLS C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/.deps/bin/64bit/obs.dll;C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/.deps/bin/64bit/obs-frontend-api.dll;C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/.deps/obs-deps-qt6-2025-07-11-x64/bin/Qt6Core.dll;C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/.deps/obs-deps-qt6-2025-07-11-x64/bin/Qt6Widgets.dll;C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/.deps/bin/64bit/w32-pthreads.dll;C:/Users/Yabosen/Documents/Projects/Replay Buffer Plugin/.deps/obs-deps-qt6-2025-07-11-x64/bin/Qt6Gui.dll)

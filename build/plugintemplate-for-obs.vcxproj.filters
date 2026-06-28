@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Yabosen\Documents\Projects\Replay Buffer Plugin\build\plugintemplate-for-obs_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Yabosen\Documents\Projects\Replay Buffer Plugin\src\multiple-replay-buffers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Yabosen\Documents\Projects\Replay Buffer Plugin\build\plugintemplate-for-obs_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Yabosen\Documents\Projects\Replay Buffer Plugin\build\plugintemplate-for-obs_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Yabosen\Documents\Projects\Replay Buffer Plugin\build\plugintemplate-for-obs_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Yabosen\Documents\Projects\Replay Buffer Plugin\src\plugin-support.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Yabosen\Documents\Projects\Replay Buffer Plugin\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Yabosen\Documents\Projects\Replay Buffer Plugin\data\locale\en-US.ini">
+      <Filter>Resources\locale</Filter>
+    </None>
+    <None Include="C:\Users\Yabosen\Documents\Projects\Replay Buffer Plugin\timestamp_Debug" />
+    <None Include="C:\Users\Yabosen\Documents\Projects\Replay Buffer Plugin\timestamp_Release" />
+    <None Include="C:\Users\Yabosen\Documents\Projects\Replay Buffer Plugin\timestamp_MinSizeRel" />
+    <None Include="C:\Users\Yabosen\Documents\Projects\Replay Buffer Plugin\timestamp_RelWithDebInfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\Yabosen\Documents\Projects\Replay Buffer Plugin\build\plugintemplate-for-obs.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{98E72FAC-1BEB-3B1E-B375-511795E126D3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{03CBA48D-5CD0-3E64-94CD-05F79204C682}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\locale">
+      <UniqueIdentifier>{A1DA7799-44E7-3308-876D-5981DA4ABFA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C6828F46-AA46-32D2-B22D-1BC3AD437B67}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
