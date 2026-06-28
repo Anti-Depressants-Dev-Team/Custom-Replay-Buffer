@@ -17,3 +17,7 @@ FAQ
 is it larped coded
 
 YES
+
+CONTRIBUITORS
+
+ME AND ANTIGRAVITY
